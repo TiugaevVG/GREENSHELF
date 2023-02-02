@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3F3F3F;stroke-miterlimit:10;}
+	.st1{opacity:0.3;}
+	.st2{fill:#EDF6F9;stroke:#3F3F3F;stroke-miterlimit:10;}
+</style>
+<title>ic_contacts</title>
+<desc>Created with Sketch.</desc>
+<g id="main">
+	<g id="delivery-var-8-add-recipient" transform="translate(-23.000000, -251.000000)">
+		<g id="menu" transform="translate(0.000000, 90.000000)">
+			<g id="Group" transform="translate(0.000000, 150.000000)">
+				<rect id="Rectangle-3" y="0" class="st0" width="220" height="50"/>
+				<g id="Group-2" transform="translate(23.000000, 13.000000)" class="st1">
+					<rect id="Rectangle-2" y="0" class="st0" width="24" height="24"/>
+				</g>
+				<path id="Shape" class="st2" d="M32,24.7c-2.3,0-7,1.2-7,3.5V30h14v-1.8C39,25.9,34.3,24.7,32,24.7 M27.3,28
+					c0.8-0.6,2.9-1.3,4.7-1.3s3.8,0.7,4.7,1.3 M32,23c1.9,0,3.5-1.6,3.5-3.5S33.9,16,32,16s-3.5,1.6-3.5,3.5S30.1,23,32,23 M32,18
+					c0.8,0,1.5,0.7,1.5,1.5S32.8,21,32,21s-1.5-0.7-1.5-1.5S31.2,18,32,18 M39,24.8c1.2,0.8,2,2,2,3.4V30h4v-1.8
+					C45,26.2,41.5,25.1,39,24.8 M38,23c1.9,0,3.5-1.6,3.5-3.5S39.9,16,38,16c-0.5,0-1,0.1-1.5,0.3c0.6,0.9,1,2,1,3.1s-0.4,2.3-1,3.1
+					C37,22.9,37.5,23,38,23z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
